@@ -1,17 +1,28 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Miloud;Low-Level+Programmer;Full+Stack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=>_+Hello,+I'm+Miloud_;>_+Low-Level+Programmer_;>_+Machine+Learning+Learner_;>_+System+Ready._" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Tech Computer Animation" />
 </p>
 
-- 🔭 I'm currently working on **a CLI tool to draw MCD diagrams by typing commands**
-- 🌱 I'm currently learning **JavaScript and Machine learning**
+### 💻 `whoami`
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("🔭 Currently building: A CLI tool to draw MCD diagrams via commands.\n");
+    printf("🌱 Currently learning: JavaScript and Machine Learning under the hood.\n");
+    printf("⚡ Fun Fact: I prefer the terminal over a GUI any day.\n");
+    
+    return 0;
+}
+```
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔌 Connect:</h3>
 <p align="left">
   <a href="https://github.com/Miloud-ux" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -24,7 +35,11 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚙️ Tech Stack:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,css,html,java,js,linux,mysql,php,py,pytorch,scikitlearn&theme=dark" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,linux,mysql,php,py,pytorch,scikitlearn&theme=dark" alt="My Tech Stack" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Tech Divider" width="100%" />
+</div>
