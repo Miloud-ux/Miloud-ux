@@ -1,6 +1,6 @@
 # Hi 👋, I'm Miloud
 
-### Passionate low-level dev 
+### Passionate low-level programmer and full stack learner
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Miloud-ux" alt="Miloud-ux" /></a> </p>
 
