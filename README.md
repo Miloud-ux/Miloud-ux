@@ -2,17 +2,27 @@
 
 ### Passionate low-level programmer and full stack learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Miloud-ux" alt="Miloud-ux" /></a> </p>
-
 - 🔭 I'm currently working on **CLI tool to draw MCD diagrams by typing commands**
-
-- 🌱 I'm currently learning **Javascript and Machine learning **
+- 🌱 I'm currently learning **JavaScript and Machine learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Miloud-ux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Miloud-ux" height="30" width="40" /></a>
-<a href="https://youtube.com/techwithmiloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techwithmiloud" height="30" width="40" /></a>
-<a href="https://leetcode.com/miloud-ux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miloud-ux" height="30" width="40" /></a>
+<a href="https://github.com/Miloud-ux" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Miloud-ux" height="40" width="40" /></a>
+<a href="https://youtube.com/techwithmiloud" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=yt" alt="techwithmiloud" height="40" width="40" /></a>
+<a href="https://leetcode.com/miloud-ux" target="_blank"><img align="center" src="https://" alt="miloud-ux" height="40" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,css,html,java,js,linux,mysql,php,py,pytorch,scikitlearn" alt="My Tech Stack" />
+</p>
+
+<br />
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Miloud-ux&show_icons=true&theme=radial" alt="Miloud-ux stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Miloud-ux&layout=compact&theme=radial" alt="Miloud-ux languages" />
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
