@@ -61,8 +61,9 @@ I'm Miloud, im interested in low-level programming, full stack dev and machine l
 ---
 
 ## Current Projects
+```
 myMcd = [██████░░░] CLI tool that draws MCD diagrams in the terminal by typing commands.
-
+```
 ---
 
 ## git log
