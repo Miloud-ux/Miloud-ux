@@ -1,73 +1,100 @@
 <div align="center">
 
-<!-- Terminal Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=>_INITIATING_SYSTEM...;>_HELLO_WORLD;>_I_AM_MILOUD;>_SYSTEMS_ENGINEER_%26_DEV" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=>_STOP_LEARNING_LANGUAGES;;>_START_LEARNING_PROGRAMMING;;>_BUILDING_AND_BREAKING_THINGS..." alt="Typing SVG" />
 
 <br/>
 
-<!-- Subtle Hacker GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlsajNnZWFoeXJqaDlzZ3ZyM2EyaHlneDB5dGhjOHJ1bzN2YmlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Binary Sphere" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0b3N6bW9wM3R4b2kyY3h6bXN6bXN6bXN6bXN6bXN6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VvXg0yj3YfE8E/giphy.gif" width="180" alt="Cat Typing on Keyboard" />
 
 <br/>
 
 <p>
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+  <i>"Vim is everywhere, and everywhere is in Emacs."</i>
 </p>
 
 </div>
 
 ---
 
-<br/>
+### `$ neofetch --profile`
 
-### 💻 `cat /usr/miloud/kernel_info.c`
-
-```c
-/*
- *  MILOUD_OS CORE KERNEL v1.0.0
- *  Architecture: Low-Level & Machine Learning
- */
-#include <stdio.h>
-#include <stdlib.h>
-
-typedef struct {
-    char *current_build;
-    char *learning_buffer;
-    char *preferred_env;
-} DevProfile;
-
-int main(void) {
-    DevProfile miloud = {
-        .current_build   = "CLI tool for drawing MCD diagrams via terminal commands",
-        .learning_buffer = "JavaScript internals & Machine Learning architectures",
-        .preferred_env   = "Linux / Neovim / CLI > GUI"
-    };
-
-    printf("[+] CURRENT PROCESS : %s\n", miloud.current_build);
-    printf("[+] ALLOCATING RAM  : %s\n", miloud.learning_buffer);
-    
-    return EXIT_SUCCESS;
-}
+```text
+       .---.         miloud@systems-engineer
+      /     \        -----------------------
+      \.@-@./        OS: Linux x86_64 / Neovim / CLI
+      /`\_/`\        Kernel: Low-Level Architecture & Systems
+     //  _  \\       Shell: bash / zsh
+    | \     / |      Focus: Machine Learning Engines & Compilers
+   / \ \___/ / \     Ideology: "Stop learning languages, start learning programming."
+  /   \_____/   \    Status: Enthusiast — loves to build and break stuff.
+  |             |    
 ```
 
-<br/>
+---
 
-### ⚙️ `./load_modules.sh --tech-stack`
+### `$ cat ~/current_projects/mcd_parser.sh`
+
+```bash
+#!/usr/bin/env bash
+# High-performance CLI tool to parse text commands into complete MCD diagrams
+
+set -euo pipefail
+
+MODULE_NAME="mcd-generator"
+STATUS="active_development"
+
+log_status() {
+    printf "[%s] (Kernel Init) Allocating memory buffers for syntax tree...\n" "$(date +%H:%M:%S)"
+}
+
+# Core compiler routine
+parse_cli_inputs() {
+    log_status
+    # Intercepting terminal strings to map relational database structures
+    # Passing tokenized arrays straight into optimization layers
+    echo ">> Module initialized. Execution layer bound to native memory allocation."
+}
+
+parse_cli_inputs
+```
+
+---
+
+### `$ ./view_research_focus.py`
+
+```python
+import sys
+
+def get_engineering_objectives():
+    return {
+        "Systems": "Memory optimization, hardware abstraction layers, custom parsing engines.",
+        "Runtime": "Bridging execution speed between heavy backend structures and JavaScript engines.",
+        "ML_Under_The_Hood": "Building matrix mechanics from pure linear algebra constructs rather than importing APIs."
+    }
+
+if __name__ == "__main__":
+    for module, internal_logic in get_engineering_objectives().items():
+        sys.stdout.write(f"[Loaded Core Module] {module:<20} -> {internal_logic}\n")
+```
+
+---
+
+### `$ ls -la /usr/bin/tech-stack/`
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,java,linux,mysql,php,py,js,pytorch,scikitlearn&theme=dark&perline=9" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,linux,py,pytorch,scikitlearn,js,java,mysql,php&theme=dark&perline=9" alt="My Tech Stack" />
   <br/>
 </div>
 
-<br/>
+---
 
-### 📡 `ping -c 3 network.miloud`
+### `$ ping -c 3 network.miloud`
 
 <div align="center">
   <br/>
   <a href="https://github.com/Miloud-ux" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&border=00FF41" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" alt="GitHub" />
   </a>
   <a href="https://www.youtube.com/@techwithmiloud" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF41&labelColor=000000" alt="YouTube" />
