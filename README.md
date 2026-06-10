@@ -30,6 +30,12 @@ I'm Miloud, im interested in low-level programming, full stack dev and machine l
 
 ---
 
+## Current Projects
+```
+myMcd = [██████░░░] CLI tool that draws MCD diagrams in the terminal by typing commands.
+```
+---
+
 ## skills
 
 <div align="center">
@@ -60,11 +66,7 @@ I'm Miloud, im interested in low-level programming, full stack dev and machine l
 
 ---
 
-## Current Projects
-```
-myMcd = [██████░░░] CLI tool that draws MCD diagrams in the terminal by typing commands.
-```
----
+
 
 ## git log
 
@@ -75,17 +77,6 @@ myMcd = [██████░░░] CLI tool that draws MCD diagrams in the te
 </div>
 
 ---
-
-## trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Miloud-ux&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=4" width="100%" />
-
-</div>
-
----
-
 
 ## ping
 
