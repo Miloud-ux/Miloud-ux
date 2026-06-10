@@ -26,10 +26,7 @@ myMcd = [██████░░░] CLI tool that draws MCD diagrams in the te
 ## skills
 
 <div>
-<img src="https://skillicons.dev/icons?i=c,linux,bash&theme=dark" />
-<img src="https://skillicons.dev/icons?i=js,php,mysql&theme=dark" />
-<img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn&theme=dark" />
-<img src="https://skillicons.dev/icons?i=java,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,php,mysql,c,pytorch,java&theme=dark" />
 </div>
 
 ---
