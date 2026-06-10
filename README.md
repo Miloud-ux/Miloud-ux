@@ -25,20 +25,10 @@ myMcd = [██████░░░] CLI tool that draws MCD diagrams in the te
 
 ## skills
 
-<div align="center">
-
-[ systems ]
-<br/>
+<div>
 <img src="https://skillicons.dev/icons?i=c,linux,bash&theme=dark" />
-
-[ web ]
-<br/>
 <img src="https://skillicons.dev/icons?i=js,php,mysql&theme=dark" />
-<br/>
-[ ml ]
 <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn&theme=dark" />
-<br/>
-[ tools ]
 <img src="https://skillicons.dev/icons?i=java,git,github&theme=dark" />
 </div>
 
