@@ -1,31 +1,22 @@
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B00,100:00FF41&height=220&section=header&text=miloud&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=systems%20·%20web%20·%20machine%20learning&descAlignY=60&descSize=22&descColor=88FF88" width="100%" />
-
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=miloud%40terminal%3A~%24+whoami;%3E+build+it.+break+it.+understand+it.;%3E+always+one+rabbit+hole+deep." alt="Typing SVG" />
-
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
----
-
-## neofetch
+## Tools i use
 
         /\_____/\        miloud @ terminal
        /  o   o  \       ──────────────────────────────────────────
-      ( ==  ^  == )      OS      : Linux x86_64
-       )         (       Shell   : bash 5.2
+      ( ==  ^  == )      OS      : Linux CachyOS
+       )         (       Shell   : fish
       (           )      Editor  : vim
-     ( (  )   (  ) )     Focus   : Systems · Web · Machine Learning
-    (__(__)___(__)__)     Quote   : "Stop learning languages. Learn programming."
+     ( (  )   (  ) )     Focus   : Webdev
+    (__(__)___(__)__)    
 ---
 
 ## about
-
 I'm Miloud, im interested in low-level programming, full stack dev and machine learning 
 
 ---
@@ -44,29 +35,23 @@ myMcd = [██████░░░] CLI tool that draws MCD diagrams in the te
 <br/>
 <img src="https://skillicons.dev/icons?i=c,linux,bash&theme=dark" />
 
-<br/><br/>
-
+<br/>
 [ web ]
 <br/>
 <img src="https://skillicons.dev/icons?i=js,php,mysql&theme=dark" />
 
-<br/><br/>
-
+<br/>
 [ ml ]
 <br/>
 <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn&theme=dark" />
 
-<br/><br/>
-
+<br/>
 [ tools ]
 <br/>
 <img src="https://skillicons.dev/icons?i=java,git,github&theme=dark" />
-
 </div>
 
 ---
-
-
 
 ## git log
 
