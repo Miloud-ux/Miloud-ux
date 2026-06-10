@@ -2,7 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=miloud%40terminal%3A~%24+whoami;%3E+build+it.+break+it.+understand+it.;%3E+always+one+rabbit+hole+deep." alt="Typing SVG" />
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 </div>
 
 ## Tools i use
@@ -14,12 +13,10 @@
       (           )      Editor  : vim
      ( (  )   (  ) )     Focus   : Webdev
     (__(__)___(__)__)    
----
 
 ## about
-I'm Miloud, im interested in low-level programming, full stack dev and machine learning 
+I'm Miloud, im interested in low-level programming, full stack dev and machine learning.
 
----
 
 ## Current Projects
 ```
@@ -35,7 +32,6 @@ myMcd = [██████░░░] CLI tool that draws MCD diagrams in the te
 <br/>
 <img src="https://skillicons.dev/icons?i=c,linux,bash&theme=dark" />
 
-<br/>
 [ web ]
 <br/>
 <img src="https://skillicons.dev/icons?i=js,php,mysql&theme=dark" />
