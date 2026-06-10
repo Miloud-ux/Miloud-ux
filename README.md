@@ -34,15 +34,11 @@ myMcd = [██████░░░] CLI tool that draws MCD diagrams in the te
 [ web ]
 <br/>
 <img src="https://skillicons.dev/icons?i=js,php,mysql&theme=dark" />
-
 <br/>
 [ ml ]
-<br/>
 <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn&theme=dark" />
-
 <br/>
 [ tools ]
-<br/>
 <img src="https://skillicons.dev/icons?i=java,git,github&theme=dark" />
 </div>
 
