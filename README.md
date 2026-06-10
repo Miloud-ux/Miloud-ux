@@ -43,9 +43,28 @@ myMcd = [██████░░░] CLI tool that draws MCD diagrams in the te
 ## ping
 <div align="center">
 <br/>
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117)](https://github.com/Miloud-ux)
-[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF41&labelColor=0D1117)](https://www.youtube.com/@techwithmiloud)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41&labelColor=0D1117)](https://leetcode.com/miloud-ux)
+
+<!-- Social Terminal -->
+<div style="border: 1px solid #00FF41; border-radius: 8px; padding: 20px 30px; background-color: #0D1117; display: inline-block;">
+
+  <div style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 12px; margin-bottom: 16px; text-align: left; letter-spacing: 2px;">
+    $ ping --socials
+  </div>
+
+  <a href="https://github.com/Miloud-ux" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@techwithmiloud" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF41&labelColor=0D1117" alt="YouTube"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/miloud-ux" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41&labelColor=0D1117" alt="LeetCode"/>
+  </a>
+
+</div>
+
 <br/>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600" />
 <img src="https://i.giphy.com/JIX9t2j0ZTN9S.gif" width="160" alt="cat on keyboard" />
@@ -54,6 +73,9 @@ myMcd = [██████░░░] CLI tool that draws MCD diagrams in the te
 <br/><br/>
 
 </div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:0D1117&height=140&section=footer" width="100%" />
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:0D1117&height=140&section=footer" width="100%" />
