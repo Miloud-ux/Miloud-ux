@@ -32,16 +32,6 @@ myMcd = [██████░░░] CLI tool that draws MCD diagrams in the te
 </div>
 
 ---
-
-## git log
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Miloud-ux&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=004400" width="100%" />
-
-</div>
-
----
 ## ping
 <div align="center">
 <br/>
