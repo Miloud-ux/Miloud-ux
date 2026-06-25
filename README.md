@@ -22,7 +22,8 @@ I'm Miloud, im interested in low-level programming, full stack dev and machine l
 - **MyMCD**:  TUI tool that draws MCD diagrams 
 in the terminal by typing commands.
 
-<a href="https://codeflowlp.netlify.app/"><p> Modern landing page with react</p></a>
+
+- <a href="https://codeflowlp.netlify.app/"><p> Modern landing page with react</p></a>
 ---
 
 ## skills
