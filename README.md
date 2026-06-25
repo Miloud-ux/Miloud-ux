@@ -23,10 +23,13 @@ I'm Miloud, im interested in low-level programming, full stack dev and machine l
 in the terminal by typing commands.
 
 
-- <a href="https://codeflowlp.netlify.app/"><p> Modern landing page with react</p></a>
+landing page in react:
+<a href="https://codeflowlp.netlify.app/"><p> Modern landing page with react</p></a>
 ---
 
 ## skills
+
+Currently learning Laravel and React.
 
 <div>
 <img src="https://skillicons.dev/icons?i=react,php,mysql,c,pytorch,java&theme=dark" />
