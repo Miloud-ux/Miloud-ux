@@ -14,7 +14,7 @@
     (__(__)___(__)__)    
 
 ## about
-I'm Miloud, im interested in low-level programming, full stack dev and machine learning.
+I'm Miloud, im interested in low-level programming, DSA, OS and full stack dev.
 
 
 
@@ -29,11 +29,8 @@ landing page in react:
 
 ## skills
 
-Currently learning Laravel and React.
+Currently learning Building a Redis clone and learning laravel.
 
-<div>
-<img src="https://skillicons.dev/icons?i=react,php,mysql,c,pytorch,java&theme=dark" />
-</div>
 
 ---
 ## ping
