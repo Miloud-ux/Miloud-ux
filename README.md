@@ -59,8 +59,6 @@ Currently learning Building a Redis clone and learning laravel.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600" />
 <img src="https://i.giphy.com/JIX9t2j0ZTN9S.gif" width="160" alt="cat on keyboard" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1200&color=00FF41&center=true&vCenter=true&width=440&lines=system+status%3A+ONLINE+%E2%9C%93;coffee%3A+critical+%E2%9A%A0%EF%B8%8F;cats+approved+this+build+%F0%9F%90%88;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+building..." alt="Status" />
-
-<br/><br/>
 </div>
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:0D1117&height=140&section=footer" width="100%" />
