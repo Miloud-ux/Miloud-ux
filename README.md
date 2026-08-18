@@ -9,12 +9,12 @@
        /  o   o  \       ──────────────────────────────────────────
       ( ==  ^  == )      OS      : Linux CachyOS
        )         (       Shell   : fish
-      (           )      Editor  : vim
-     ( (  )   (  ) )     Focus   : Webdev
+      (           )      Editor  : helix
+     ( (  )   (  ) )     
     (__(__)___(__)__)    
 
 ## about
-I'm Miloud, im interested in low-level programming, DSA, OS and full stack dev.
+I'm Miloud, im interested in low-level programming, DSA, OS and backend dev.
 
 
 
