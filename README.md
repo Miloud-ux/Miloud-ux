@@ -4,7 +4,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-
         /\_____/\        miloud @ terminal
        /  o   o  \       ──────────────────────────────────────────
       ( ==  ^  == )      OS      : Linux CachyOS
@@ -13,24 +12,29 @@
      ( (  )   (  ) )     
     (__(__)___(__)__)    
 
-## about
-I'm Miloud, im interested in low-level programming, DSA, OS and backend dev.
+# Hi, I'm Miloud
 
+I write code to understand how things work underneath.
 
+Right now I'm learning **Go**, **distributed systems**, and **low-level systems programming**.
 
-## recent Projects
-- **MyMCD**:  TUI tool that draws MCD diagrams 
-in the terminal by typing commands.
+## Currently
 
----
+- Learning Go by building [go-notes](https://github.com/Miloud-ux/go-notes)
+- Studying distributed systems: replication, consensus, fault tolerance
+- Digging into low-level systems: threads, locks, memory, syscalls
 
-## skills
+## Latest project
 
-Currently learning Building a Redis clone and learning laravel.
+A mutex library in C, built alongside go-notes. I'm using the two to compare how synchronization works from the ground up in C versus with Go's own primitives.
 
+## Languages
 
----
-## ping
+Go, C, Bash
+
+## Contact
+
+[GitHub](https://github.com/Miloud-ux) · [Email](mailto:YOUR_EMAIL)
 <div align="center">
 <br/>
 
