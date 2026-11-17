@@ -16,24 +16,21 @@
 
 I write code to understand how things work underneath.
 
-Right now I'm learning **Go**, **distributed systems**, and **low-level systems programming**.
+Right now I'm focused on distributed systems research and systems programming. 
 
 ## Currently
-
+- Reading about synchronization protocols.
 - Learning Go by building [go-notes](https://github.com/Miloud-ux/go-notes)
-- Studying distributed systems: replication, consensus, fault tolerance
-- Digging into low-level systems: threads, locks, memory, syscalls
+- Reading about functional programming as a hobby.
 
 ## Latest project
-
-A mutex library in C, built alongside go-notes. I'm using the two to compare how synchronization works from the ground up in C versus with Go's own primitives.
+- [TinyFun](https://github.com/Miloud-ux/TinyFun)
+- mini mutex library implementation in C [concLib](https://github.com/Miloud-ux/Concurrency-lib-in-C)
 
 ## Languages
-
-Go, C, Bash
+Go, C, Python
 
 ## Contact
-
 [GitHub](https://github.com/Miloud-ux) · [Email](mailto:YOUR_EMAIL)
 <div align="center">
 <br/>
